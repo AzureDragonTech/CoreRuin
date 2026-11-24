@@ -1,5 +1,6 @@
+[English README](./README_EN.md)
 # 残核：自安全模式启程
-> CoreRuin: Boot From Safe Mode
+> CoreRuin: Boot From Safe Mode>；内核：从安全模式启动
 
 ## 🎮 简介
 一款以老旧电脑系统为舞台的解密叙事游戏。
