@@ -13,7 +13,7 @@
 - 选择驱动多分支剧情
 
 ## 📜 许可
-本项目遵循 Apache License 2.0，同时受附加条款 `ADDITIONAL_TERMS.md` 约束：
+本项目遵循 Apache License 2.0，同时受附加条款 [ADDITIONAL_TERMS.md](./ADDITIONAL_TERMS.md) 约束：
 1. 衍生作品通过广告获取收益无需授权；
 2. 售卖、付费分发等其他商业用途，须向 AzureDragonTech 申请商用授权。
 
