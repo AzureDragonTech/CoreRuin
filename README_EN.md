@@ -14,7 +14,7 @@ Explore the device, decode messages and make choices leading to different branch
 - Choice-driven branching paths
 
 ## 📜 License
-This project is licensed under Apache License 2.0, with additional terms in `ADDITIONAL_TERMS.md`:
+This project is licensed under Apache License 2.0, with additional terms in [ADDITIONAL_TERMS.md](./ADDITIONAL_TERMS.md):
 1. Derivative works may earn revenue via advertisements without separate authorization.
 2. All other commercial use including sale and paid distribution requires a commercial license from AzureDragonTech.
 
